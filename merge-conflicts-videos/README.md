@@ -1,4 +1,6 @@
-##This folder contains lins to videos showing various wayd to resolve merge conflicts. 
+# Merge Conflicts
+
+## This folder contains lins to videos showing various wayd to resolve merge conflicts. 
 
 ### [Conflict #1](https://vimeo.com/225086807/17d3c84475)
 
