@@ -1,4 +1,4 @@
-# GitHub for Everyone
+# GitHub for everyone interested in learning
 
 - Class Date: February 2024
 - Facilitator: @andrew-scoppa
