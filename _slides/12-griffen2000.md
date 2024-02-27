@@ -1,9 +1,9 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Welcome to gfns slide deck!"
 ---
 
-Caption here
+File has been updated
 
 ![poptocat](https://octodex.github.com/images/poptocat.png)
 {: .center}
